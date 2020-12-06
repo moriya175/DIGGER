@@ -1,0 +1,27 @@
+# ninja log v5
+15	1816	627327589	CMakeFiles/project1.dir/src/Wall.cpp.obj	c487fe045be02de5
+22	1826	627327589	CMakeFiles/project1.dir/src/Stone.cpp.obj	e02b8ee344468b77
+18	1831	627327589	CMakeFiles/project1.dir/src/StaticObject.cpp.obj	3975d6a92dc73353
+0	1836	627327589	CMakeFiles/project1.dir/src/main.cpp.obj	1caf443ac5f454e3
+13	1841	627327589	CMakeFiles/project1.dir/src/Diamond.cpp.obj	7db192f8b3771570
+20	1848	627327589	CMakeFiles/project1.dir/src/GiftScore.cpp.obj	1e6c833856bb2f11
+3	1857	627327589	CMakeFiles/project1.dir/src/Object.cpp.obj	25890289e0d56ed9
+8	1897	627327589	CMakeFiles/project1.dir/src/Level.cpp.obj	178a6e5f52de1b90
+11	1950	627327589	CMakeFiles/project1.dir/src/Controller.cpp.obj	c94bf0ddbb19b6f1
+6	2007	627327589	CMakeFiles/project1.dir/src/Board.cpp.obj	d9191c185da711bb
+1837	3629	627327591	CMakeFiles/project1.dir/src/Menu.cpp.obj	440b5a9f4e2ee872
+1842	3672	627327591	CMakeFiles/project1.dir/src/Resources.cpp.obj	84cf766c6ab53533
+1897	3681	627327591	CMakeFiles/project1.dir/src/Button.cpp.obj	819dd32736cd99f1
+1858	3692	627327591	CMakeFiles/project1.dir/src/ExitGame.cpp.obj	9d3ec35e3444ea2c
+1950	3748	627327591	CMakeFiles/project1.dir/src/NewGame.cpp.obj	c4c6d27121de1700
+1818	3783	627327591	CMakeFiles/project1.dir/src/GiftTime.cpp.obj	7e6a1f8e69dc24e
+1831	3812	627327591	CMakeFiles/project1.dir/src/GiftStone.cpp.obj	687a861eecb5b3a2
+1849	3897	627327591	CMakeFiles/project1.dir/src/DinamikObject.cpp.obj	b5dc4ffc03538125
+1826	3938	627327591	CMakeFiles/project1.dir/src/Gift.cpp.obj	4028fc1c366b6fd2
+2008	4013	627327591	CMakeFiles/project1.dir/src/Monster.cpp.obj	491e8bff86be0fc0
+3672	4698	627327592	CMakeFiles/project1.dir/src/RegularMonster.cpp.obj	e44aaa5e4e4cd87a
+3630	4720	627327592	CMakeFiles/project1.dir/src/Digger.cpp.obj	f352106d79408b8a
+3693	4811	627327592	CMakeFiles/project1.dir/src/SmartMonster.cpp.obj	c623ec1685956b4e
+3682	4815	627327592	CMakeFiles/project1.dir/src/Game.cpp.obj	77e620471b9bbafe
+3749	4875	627327592	CMakeFiles/project1.dir/src/InformationDisplay.cpp.obj	d6be110b61c9c930
+4876	6109	627327593	project1.exe	60bc6d555198cfc6
